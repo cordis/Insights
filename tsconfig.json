@@ -9,7 +9,8 @@
     "inlineSources": false,
     "noImplicitAny": true,
     "preserveConstEnums": true,
-    "removeComments": true
+    "removeComments": true,
+    "experimentalDecorators": true
   },
   "exclude": [
     "build",

@@ -6,5 +6,5 @@ node_modules/
 npm-debug.log
 typings/
 
-src/*.js
-src/*.jsx
+src/**/*.js
+src/**/*.jsx

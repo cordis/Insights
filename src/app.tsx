@@ -1,8 +1,5 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import HelloWorld from "./HelloWorld";
+import Insights from "./Insights";
 
-ReactDOM.render(
-    <HelloWorld name="CordiS" />,
-    document.getElementById("root")
-);
+ReactDOM.render(<Insights />, document.getElementById("#Insights"));

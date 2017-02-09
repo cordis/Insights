@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "object-assign": "registry:npm/object-assign#4.0.1+20160301180549",
-    "react": "registry:npm/react#15.0.1+20170104200836",
-    "react-dom": "registry:npm/react-dom#15.0.1+20160826174104"
+    "object-assign": "registry:npm/object-assign#4.0.1+20160301180549"
   }
 }

@@ -3,7 +3,7 @@ var path = require("path");
 var config = {
     context: path.resolve(__dirname, "src"),
     entry: {
-        app: "./app.tsx"
+        app: "./client.tsx"
     },
     output: {
         path: path.resolve(__dirname, "build"),

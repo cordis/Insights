@@ -1,4 +1,5 @@
 import StatsFactory from "./factory";
 
 export {Criteria} from "./beans";
-export default StatsFactory;
+export {IApi} from "./interfaces";
+export {StatsFactory};
